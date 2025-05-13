@@ -47,11 +47,11 @@ body{
 }
 
 .play-board .food{
-    background: #ff003d;
+    background: rgb(119, 95, 83);
 }
 
 .play-board .head{
-    background: #60cbff;
+    background: rgb(98, 119, 83);
 }
 
 .controls{
